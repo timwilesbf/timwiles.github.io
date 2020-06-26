@@ -4,6 +4,8 @@
 
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
 
+**Want to donate?** See the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+
 This should be quite a fun project. 
 
 This elderly man in rural Uganda is living in a hut which is leaking rather drastically. His wife and son (who would be helping him otherwise) have both died and are buried in his garden. 
