@@ -1,6 +1,6 @@
 # Latest Project - A house for "Andrew" before the rains come 
 
-### last update: Fri 26 June 2020, 07:43 BST
+Last update: Fri 26 June 2020, 07:43 BST
 
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
 
@@ -51,3 +51,5 @@ Tim Wiles
 Resident of Swindon, UK
 
 Citizen, Social Campaigner, and Discussion Group Host
+
+Website created with GitHub pages
