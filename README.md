@@ -36,4 +36,4 @@ Thank you for reading about this project. I hope its transparency and simplicity
 
 For more information please contact tcwiles@gmail.com 
 
-Or to donate check out the GoFundMe page. 
+Or to donate check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
