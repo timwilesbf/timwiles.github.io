@@ -2,6 +2,8 @@
 
 ### last update: Fri 26 June 2020, 07:43 BST
 
+<img src="IMG-20200617-WA0001.jpg" width="60%"/>
+
 This should be quite a fun project. 
 
 This elderly man in rural Uganda is living in a hut which is leaking rather drastically. His wife and son (who would be helping him otherwise) have both died and are buried in his garden. 
