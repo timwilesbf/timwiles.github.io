@@ -1,4 +1,4 @@
-# A house for "Andrew" before the rains come 
+# Latest Project - A house for "Andrew" before the rains come 
 
 This should be quite a fun project. 
 
@@ -6,7 +6,7 @@ This elderly man in rural Uganda is living in a hut which is leaking rather dras
 
 Luckily his village (Peta) happens to be round the corner from an international charity run by a friend of mine. Not only that, but his fellow villagers (who brought his situation to my attention)  have pledged to do the building work if I can provide the materials. 
 
-** information below updated 2020-06-26 with more details and budget **
+**Information below updated 2020-06-26 with more details and budget**
 
 ## Project Assessment 
 
@@ -30,10 +30,18 @@ Other things included in the budget (or contributed by the villagers):
 
 6. Buying Doors/windows
 
-## More Information ##
+## More Information / Donate ##
 
 Thank you for reading about this project. I hope its transparency and simplicity make you as excited as they do me, and that we can see a better future for the world.
 
 For more information please contact tcwiles@gmail.com 
 
 Or to donate check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+
+Kind Regards 
+
+Tim Wiles
+
+Resident of Swindon, UK
+
+Citizen, Social Campaigner, and Discussion Group Host
