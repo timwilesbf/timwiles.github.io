@@ -28,7 +28,7 @@ Other things included in the budget (or contributed by the villagers):
 
 2. Labour
 
-3. Roofing(Timber,Nails and iron sheets)
+3. Roofing (Timber,Nails and iron sheets)
 
 4. Plastering
 
@@ -38,9 +38,9 @@ Other things included in the budget (or contributed by the villagers):
 
 ## More Information / Donate ##
 
-Thank you for reading about this project. I hope its transparency and simplicity make you as excited as they do me, and that we can see a better future for the world.
+Thank you for reading about this project. I hope its transparency and simplicity make you as excited as they do me. 
 
-For more information please contact tcwiles@gmail.com 
+**For more information** please contact tcwiles@gmail.com
 
 Or to donate check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
