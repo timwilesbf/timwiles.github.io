@@ -6,7 +6,7 @@ David (my contact in the village) has negotiated
 with the local engineer and secured a quote
 for building the house. 
 
-[Budget breakdown (PDF)](Revised budget.pdf)
+[Budget breakdown](Revised budget.pdf) (PDF) 
 
 The breakdown comes to slightly more than the 
 10M Ugandan shillings specified at the start of
