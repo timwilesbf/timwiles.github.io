@@ -2,16 +2,23 @@
 
 **Updated Tue 30 June 2020 07:05 BST**
 
-David (my contact in the village) has sent me 
-a budget breakdown for the house for "Andrew", having discussed with the
- local engineer. 
+David (my contact in the village) has negotiated
+with the local engineer and secured a quote
+for building the house. 
 
-The breakdown comes to slightly more than the budget of
+[Budget breakdown (PDF)](Revised budget.pdf)
+
+The breakdown comes to slightly more than the 
 10M Ugandan shillings specified at the start of
-the fundraising. I've updated the GoFundMe target
-(2000GBP -> 2500GBP) accordingly. But still an
-excellent price for a house. David managed
-to negotiate well with the engineer. 
+the fundraising, and I've updated the GoFundMe target
+(2000GBP -> 2500GBP) accordingly. 
 
-[Budget breakdown (PDF)](breakdown.pdf)
+If you have any more questions you'd like to ask
+me or David then please don't hesitate to contact
+me by
 
+* Email (tcwiles@gmail.com) 
+
+* [Facebook](https://www.facebook.com/timmy.wiles)
+
+**Or to donate visit the GoFundMe page**
