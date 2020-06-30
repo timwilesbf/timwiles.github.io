@@ -1,6 +1,7 @@
-# Latest Project - A house for "Andrew" before the rains come 
+# Latest Project - A house for Arthur before the rains come 
 
-Last update: Fri 26 June 2020, 07:43 BST
+Last update: Tuesday 30 June 2020, 07:36 BST (added Arthur's 
+real name instead of using a pseudonym) 
 
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
 
@@ -42,9 +43,9 @@ Other things included in the budget (or contributed by the villagers):
 
 Thank you for reading about this project. I hope its transparency and simplicity make you as excited as they do me. 
 
-**For more information** please contact tcwiles@gmail.com
+* **For more information** please contact tcwiles@gmail.com
 
-Or to donate check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+* **Or to donate** check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
 Kind Regards 
 
