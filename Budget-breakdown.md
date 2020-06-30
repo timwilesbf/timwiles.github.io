@@ -19,6 +19,6 @@ me by
 
 * Email (tcwiles@gmail.com) 
 
-* [Facebook](https://www.facebook.com/timmy.wiles)
+* [Facebook (timmy.wiles)](https://www.facebook.com/timmy.wiles)
 
 **Or to donate visit the GoFundMe page**
