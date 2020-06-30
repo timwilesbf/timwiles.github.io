@@ -20,7 +20,7 @@ I've done building projects like this before and they are very rewarding. Photos
 
 ## Budget 
 
-The budget is 2000GBP (just under 10M Ugandan Shillings). Some of the materials have already been provided by the villagers which is doubly awesome. (Ordinarily I'd ask  them to provide more but the coronavirus lockdown in Uganda has restricted them financially especially in this region.).
+The budget is 2500GBP (just over 11M Ugandan Shillings). Some of the materials have already been provided by the villagers which is doubly awesome. (Ordinarily I'd ask  them to provide more but the coronavirus lockdown in Uganda has restricted them financially especially in this region.).
 
 Other things included in the budget (or contributed by the villagers):
 
@@ -35,6 +35,8 @@ Other things included in the budget (or contributed by the villagers):
 5. Painting
 
 6. Buying Doors/windows
+
+[Detailed budget breakdown - 2020-06-30](Budget-breakdown.md)
 
 ## More Information / Donate ##
 
