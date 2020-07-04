@@ -1,7 +1,6 @@
 # Latest Project - A house for Arthur before the rains come 
 
-Last update: Tuesday 30 June 2020, 07:36 BST (added Arthur's 
-real name instead of using the pseudonym "Andrew") 
+Last update: Saturday 4 July 2020, 22:41 BST (added more pictures in the [photo gallery](Photo-gallery.md)  ) 
 
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
 
@@ -13,7 +12,11 @@ This elderly man in rural Uganda is living in a hut which is leaking rather dras
 
 Luckily his village (Peta) happens to be round the corner from an international charity run by a friend of mine. Not only that, but his fellow villagers (who brought his situation to my attention)  have pledged to do the building work if I can provide the materials. 
 
-**Information below updated 2020-06-30 with budget breakdown**
+## More pictures
+
+(Updated 4 July 2020)
+
+See the [photo gallery](Photo-gallery.md) 
 
 ## Project Assessment 
 
