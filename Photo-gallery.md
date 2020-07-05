@@ -1,5 +1,9 @@
 # Photo Gallery
 
+Below are some photos of Arthur and the project. 
+
+[ < Return to homepage](README.md) 
+
 ## 4 July 2020
 
 <figure>
