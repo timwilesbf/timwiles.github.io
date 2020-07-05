@@ -32,6 +32,12 @@ Below are some photos of Arthur and the project.
 <br/>
 
 <figure>
+<img src="graves.jpg" width="80%" alt="graves">
+<figcaption>The graves where his wife and son are buried (his would-be helpers)</figcaption>
+</figure>
+<br/>
+
+<figure>
 <img src="clothes.jpg" width="80%" alt="clothes">
 <figcaption>Some clothes bought for Arthur by his fellow villagers</figcaption>
 </figure>
