@@ -4,6 +4,9 @@ Below are some photos of Arthur and the project.
 
 [ < Return to homepage](README.md) 
 
+
+**Want to donate?** See the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+
 ## 4 July 2020
 
 <figure>
