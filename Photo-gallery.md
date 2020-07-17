@@ -50,3 +50,6 @@ Below are some photos of Arthur and the project.
 <img src="bricks.jpg" width="80%" alt="bricks">
 <figcaption>Some bricks donated by a fellow villager. Not enough for a house, but a start.</figcaption>
 </figure>
+
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
