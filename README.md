@@ -65,3 +65,6 @@ Resident of Swindon, UK
 Citizen, Social Campaigner, and Discussion Group Host
 
 Website created with GitHub pages
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div>
+
