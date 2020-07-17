@@ -10,7 +10,7 @@ for building the house.
 
 Below is a Google Sheet showing the items that remain to be donated by someone.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXv8qs5dXRpj8xNNdD75FLFwh_t7gwW8EUGtlGk_UKwqQnYhr6vOrF06n3uZVBn-kusW_X5X-8Ss4O/pubhtml?gid=1977304164&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXv8qs5dXRpj8xNNdD75FLFwh_t7gwW8EUGtlGk_UKwqQnYhr6vOrF06n3uZVBn-kusW_X5X-8Ss4O/pubhtml?gid=1977304164&amp;single=true&amp;widget=true&amp;headers=false" height="600px" width="100%"></iframe>
 
 [Open in Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXv8qs5dXRpj8xNNdD75FLFwh_t7gwW8EUGtlGk_UKwqQnYhr6vOrF06n3uZVBn-kusW_X5X-8Ss4O/pubhtml?gid=1977304164&single=true)
 
