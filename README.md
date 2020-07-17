@@ -4,7 +4,9 @@ Last update: Saturday 4 July 2020, 22:41 BST (added more pictures in the [photo 
 
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div>
+
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 This should be quite a fun project. 
 
