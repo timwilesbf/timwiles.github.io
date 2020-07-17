@@ -31,9 +31,7 @@ I've done building projects like this before and they are very rewarding. Photos
 
 ## Budget 
 
-The budget is 2500GBP (just over 11M Ugandan Shillings). Some of the materials have already been provided by the villagers which is doubly awesome. (Ordinarily I'd ask  them to provide more but the coronavirus lockdown in Uganda has restricted them financially especially in this region.).
-
-Other things included in the budget (or contributed by the villagers):
+The budget is 2500GBP and includes
 
 1. Buying and Transporting Materials
 
@@ -47,11 +45,9 @@ Other things included in the budget (or contributed by the villagers):
 
 6. Buying Doors/windows
 
-[Detailed budget breakdown - 2020-06-30](Budget-breakdown.md)
+[**Click here to view and sponsor individual items**](Budget-breakdown.md)
 
 ## More Information / Donate ##
-
-Thank you for reading about this project. I hope its transparency and simplicity make you as excited as they do me. 
 
 * **For more information** please contact tcwiles@gmail.com
 
@@ -64,8 +60,6 @@ Tim Wiles
 Resident of Swindon, UK
 
 Citizen, Social Campaigner, and Discussion Group Host
-
-Website created with GitHub pages
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
 
