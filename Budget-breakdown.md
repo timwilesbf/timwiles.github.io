@@ -45,6 +45,7 @@ me by
 
 * [Facebook (timmy.wiles)](https://www.facebook.com/timmy.wiles)
 
-* **Or to donate** visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+<noscript><a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1"
+><strong>Click here to donate </strong></noscript>  
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
