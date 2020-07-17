@@ -8,8 +8,8 @@ Below are some photos of Arthur and the project.
 <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>
   </noscript>
   
-  <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
-  <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 ## 4 July 2020
 
