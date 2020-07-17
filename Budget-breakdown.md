@@ -2,13 +2,17 @@
 
 [ < Return to homepage](README.md) 
 
-**Updated Tue 30 June 2020 07:05 BST**
+**Updated Fri 17 June 2020 14:25 BST**
 
 David (my contact in the village) has negotiated
 with the local engineer and secured a quote
 for building the house. 
 
-[Budget breakdown](https://docs.google.com/document/d/1T0_5IoKHOs6oxn-PAll0rTl7PZoU1SvLJSLwZ8Cx10E) (Google drive link) 
+Below is a Google Sheet showing the items that remain to be donated by someone.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXv8qs5dXRpj8xNNdD75FLFwh_t7gwW8EUGtlGk_UKwqQnYhr6vOrF06n3uZVBn-kusW_X5X-8Ss4O/pubhtml?gid=1977304164&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Open in Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXv8qs5dXRpj8xNNdD75FLFwh_t7gwW8EUGtlGk_UKwqQnYhr6vOrF06n3uZVBn-kusW_X5X-8Ss4O/pubhtml?gid=1977304164&single=true)
 
 The breakdown comes to slightly more than the 
 10M Ugandan shillings specified at the start of
