@@ -2,7 +2,11 @@
 
 Last update: Saturday 4 July 2020, 22:41 BST (added more pictures in the [photo gallery](Photo-gallery.md)  ) 
 
+<noscript>
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
+  <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
+  
+</noscript>
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div>
 
