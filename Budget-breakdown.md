@@ -1,4 +1,4 @@
-# Budget breakdown - 2020-06-30
+# Budget breakdown
 
 [ < Return to homepage](README.md) 
 
