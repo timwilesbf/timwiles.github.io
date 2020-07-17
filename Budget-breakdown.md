@@ -2,7 +2,7 @@
 
 [ < Return to homepage](README.md) 
 
-**Updated Fri 17 June 2020 14:25 BST**
+**Updated Fri 17 June 2020 20:23 BST**
 
 David (my contact in the village) has negotiated
 with the local engineer and secured a quote
