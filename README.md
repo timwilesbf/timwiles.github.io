@@ -1,6 +1,7 @@
 # Latest Project - A house for Arthur before the rains come 
 
-Last update: Saturday 4 July 2020, 22:41 BST (added more pictures in the [photo gallery](Photo-gallery.md)  ) 
+Last update: Friday 17 July 2020, 20:23 BST 
+(added a table to the [budget breakdown](Budget-breakdown.md) ) ) 
 
 <noscript>
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
