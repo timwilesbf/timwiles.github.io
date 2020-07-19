@@ -2,7 +2,7 @@
 
 [ < Return to homepage](README.md) 
 
-**Updated Fri 17 June 2020 20:23 BST**
+**Updated Sun 19 June 2020 07:52 BST - added donate link **
 
 David (my contact in the village) has negotiated
 with the local engineer and secured a quote
