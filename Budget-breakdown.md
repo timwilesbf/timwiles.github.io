@@ -8,25 +8,25 @@ David (my contact in the village) has negotiated
 with the local engineer and secured a quote
 for building the house. 
 
-£	|Item		|Sponsored? 
+**£**	|**Item**		|**Sponsored?** 
 --------|---------------|--------
 618	|Cement		|
 330	|Bricks		|
 286	|Labour		|
 264	|Iron sheets	|
 165	|River sand	|
-99	|Transport	|
+99	| Transport	| 
 88	|Pit sand	|
 88	|Timber for ring beam|	
 88	|Doors	|
 88	|Windows	|
-66	|Timbers	
-59	|Twisted bars	
+~~66~~	|~~Timbers~~ | **Yes**. By anonymous donors.
+~~59~~	| ~~Twisted bars~~	|**Yes**.  By Delyth.
 ~~53~~	|~~Aggregates~~	|**Yes**.  By Bridget.
 ~~40~~	|~~Weather guard~~	|**Yes**.  By Wilma. 
-33	|Hard core	
-~~32~~	|~~Nails~~	|**Yes**
-~~31~~	|~~Under coat~~	|**Yes** 
+~~33~~	|~~Hard core~~	|**Yes**. By anonymous donors.
+32	|Nails	|
+31	|Under coat	|
 26	|Ring wires	
 11	|Binding wires	
 ~~11~~	|~~Hooping iron~~	|**Yes**.  By Wilma. 
