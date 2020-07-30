@@ -20,13 +20,13 @@ for building the house.
 88	|Timber for ring beam|	
 88	|Doors	|
 88	|Windows	|
-66	|Timbers	
-59	|Twisted bars	
+~~66~~	|~~Timbers~~ | **Yes**. By anonymous donors.
+~~59~~	|~~Twisted bars~~	| **Yes**. By Delyth.
 ~~53~~	|~~Aggregates~~	|**Yes**.  By Bridget.
 ~~40~~	|~~Weather guard~~	|**Yes**.  By Wilma. 
-33	|Hard core	
-~~32~~	|~~Nails~~	|**Yes**
-~~31~~	|~~Under coat~~	|**Yes** 
+~~33~~	|~~Hard core~~	| **Yes**. By anonymous donors.
+32	|Nails	|
+31	|Under coat	|
 26	|Ring wires	
 11	|Binding wires	
 ~~11~~	|~~Hooping iron~~	|**Yes**.  By Wilma. 
