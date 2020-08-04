@@ -35,7 +35,8 @@ any donations made before the end of August 2020**
 11	|Binding wires	
 ~~11~~	|~~Hooping iron~~	|**Yes**.  By Wilma. 
 
-Total pledged and given so far: **£526**.
+Total pledged and given so far: **£526**. Total
+remaining: **£1974**.
 
 To sponsor an item, click the donate button below. 
 Then (optionally), send me an email or text letting
