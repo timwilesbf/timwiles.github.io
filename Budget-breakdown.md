@@ -16,7 +16,7 @@ any donations made before the end of August 2020**
 --------|---------------|--------
 618	|Cement		|
 330	|Bricks		|
-~~286~~	|~~Labour~~		|**Yes**. 
+~~286~~	|~~Labour~~		|**Yes**.  By anonymous donors.
 ~~264~~	|~~Iron sheets~~|**Yes**. Pledged by the "doubling donor". 
 ~~165~~	|~~River sand~~	| **Yes**. Pledged by the "doubling donor". 
 99	|Transport	|
@@ -35,8 +35,8 @@ any donations made before the end of August 2020**
 11	|Binding wires	
 ~~11~~	|~~Hooping iron~~	|**Yes**.  By Wilma. 
 
-Total pledged and given so far: **£526**. Total
-remaining: **£1974**.
+Total pledged and given so far: **£977**. Total
+remaining: **£1523**.
 
 To sponsor an item, click the donate button below. 
 Then (optionally), send me an email or text letting
