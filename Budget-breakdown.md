@@ -16,9 +16,9 @@ any donations made before the end of August 2020**
 --------|---------------|--------
 618	|Cement		|
 330	|Bricks		|
-286	|Labour		|
+~~286~~	|~~Labour~~		|**Yes**. 
 ~~264~~	|~~Iron sheets~~|**Yes**. Pledged by the "doubling donor". 
-165	|River sand	| 
+~~165~~	|~~River sand~~	| **Yes**. Pledged by the "doubling donor". 
 99	|Transport	|
 88	|Pit sand	|
 88	|Timber for ring beam|	
