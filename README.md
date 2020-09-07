@@ -1,7 +1,7 @@
 # Latest Project - A house for Arthur before the rains come 
 
-Last update: Tuesday 4 August 2020, 07:37 BST 
-(added donation match pledge to the [budget breakdown](Budget-breakdown.md) ) 
+Last update: Monday 7 September 2020, 18:54 BST 
+(added revised budget with care plan on the [budget breakdown page](Budget-breakdown.md) ) 
 
 <noscript>
 <img src="IMG-20200617-WA0001.jpg" width="60%"/>
@@ -31,10 +31,7 @@ I've done building projects like this before and they are very rewarding. Photos
 
 ## Budget 
 
-The budget is 2500GBP. However, **one donor
-has pledged to double any donation made before
-the end of August 
-2020** <strong><a name="upto1" href="#upto"><sup>1</sup></a></strong>. The [budget](Budget-breakdown.md) includes
+The budget is 2500GBP (see [detailed budget breakdown](Budget-breakdown.md)) and includes
 
 1. Buying and Transporting Materials
 
@@ -42,15 +39,15 @@ the end of August
 
 3. Roofing (Timber,Nails and iron sheets)
 
-4. Plastering
+4. Material for the walls and floor
 
-5. Painting
+5. Constructing a latrine
 
 6. Buying Doors/windows
 
-[**Click here to view and sponsor individual items**](Budget-breakdown.md)
+7. Care costs for Arthur for 6 months (from October 2020)
 
-<p><strong><a name="upto" href="#upto1"><sup>1</sup></a></strong>: Up to 1000GBP.</p>
+[**Click here to view and sponsor individual items**](Budget-breakdown.md)
 
 ## More Information / Donate
 
