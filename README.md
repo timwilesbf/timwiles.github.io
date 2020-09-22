@@ -56,7 +56,18 @@ later.
 
 However, the project had an unexpected 
 side-effect: exposing the extreme poverty
-and the lack of
+and the lack of medical care that has arisen in Peta as a result of the coronavirus lockdown. 
+
+## How can we help? 
+
+Fortunately, a little goes a long way in 
+rural communities, and the money that
+has been donated so far will be plenty
+enough to provide for at least two households
+. We are also in the
+excellent position that we have contacts we can trust
+in the village
+
 
 ## More about Arthur and his life
 
