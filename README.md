@@ -51,29 +51,42 @@ health conditions, and so had the idea that we
 could construct Arthur a concrete house
 where he could live out his old age. 
 
-This was sadly not to be as Arthur died months
+This was sadly not to be,  as Arthur died a few months
 later. 
 
 However, the project had an unexpected 
-sude-effect: exposing the extreme poverty
+side-effect: exposing the extreme poverty
 and the lack of
 
 ## More about Arthur and his life
 
 
 
+## How to receive your money back if you donated to the original project
 
-
+If you donated to the original project and don't 
+wish your money to be redirected to the new 
+project then send me your bank details (or
+payment method of your choice) by 22 October 2020
+and I will refund it to you. All donors 
+should receive an email by 1 Oct 2020.
+If you don't receive one [email me](mailto:tcwiles@gmail.com). 
 
 ## How to donate to the new project
 
-* **For more information** please contact tcwiles@gmail.com
+To donate, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
-* **Or to donate** check out the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+Or you can make a donation directly to Knofacic using the Knofacic website. Then
+contact me or them with your donation amount and name. 
+
+I am overwhelmed with gratitude towards 
+all the supporters, donors, sharers, pray-ers, and towards God. 
 
 Kind Regards 
 
 Tim Wiles
+
+tcwiles@gmail.com 
 
 Resident of Swindon, UK
 
