@@ -1,4 +1,4 @@
-# Latest Project - Helping the villagers of Peta
+# Latest Project - Helping those living in extreme poverty  in Peta
 
 Last update: Tuesday 22 September 2020, 22:17 BST 
 (renamed and repurposed the project ) 
