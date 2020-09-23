@@ -11,7 +11,7 @@ Below are some photos of Arthur and the project.
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
-## 23 Sep 2020
+## 18 Sep 2020
 
 <figure>
 <img src="IMG-20200918-WA0005.jpg" width="80%" alt="Three graves">
