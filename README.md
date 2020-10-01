@@ -90,7 +90,7 @@ of Peta were still in the process of raising funds to build him a semi-permanent
 If you donated to the *original project* (building Arthur a house) and don't 
 wish your money to be redirected to the *new 
 project* (helping those in extreme poverty  in Peta) then send me your bank details (or
-payment method of your choice) by 2 October 2020
+payment method of your choice) by 5 October 2020
 and I will refund it to you. All donors 
 should have received an email by the end of today (25 September 2020) .
 If you haven't received one [email me](mailto:tcwiles@gmail.com). 
